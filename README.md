@@ -1,1 +1,1 @@
-## ReCorner A Simple And Optimized Implementation Of Corner Correction In Godot
+## ReCorner: A Simple And Optimized Corner Correction In Godot
