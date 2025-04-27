@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Logo ReCorner.svg"
+   inkscape:export-filename="Logo ReCorner.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">ReCorner Logo</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.5197952"
+     inkscape:cx="306.29127"
+     inkscape:cy="236.54503"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="155.98592,194.48367"
+       orientation="0,-1"
+       id="guide10"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 67.733335 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="135.46666 : 67.733335 : 1"
+       inkscape:persp3d-origin="67.73333 : 45.155557 : 1"
+       id="perspective1" />
+  </defs>
+  <g
+     inkscape:label="ReCorner"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#93b6f9;fill-opacity:1;stroke:#f0f8ff;stroke-width:12.0522;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1"
+       width="123.41447"
+       x="-129.44057"
+       y="6.0261002"
+       height="123.41451"
+       transform="scale(-1,1)"
+       ry="24.104395"
+       inkscape:label="Fondo" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#f0f8ff;stroke-width:12.8746;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect2"
+       width="119.41702"
+       x="-185.38557"
+       y="-46.479366"
+       height="119.41702"
+       inkscape:label="Cubo"
+       transform="scale(-1,1)" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#f0f8ff;stroke-width:10.5833;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:normal"
+       d="m 52.916666,66.145833 c 0,11.024305 0,25.277555 3.89768,29.175235 3.897681,3.897681 18.150931,3.897681 29.175236,3.897681"
+       id="path2"
+       inkscape:path-effect="#path-effect2"
+       inkscape:original-d="m 52.916666,66.145833 c 0,0 -7.795361,25.277555 0,33.072916 7.795361,7.795361 33.072916,0 33.072916,0"
+       sodipodi:nodetypes="cac"
+       inkscape:label="Linea 1"
+       transform="translate(-5.3968347,-6.6844149)" />
+    <circle
+       id="path6"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="-31.510551"
+       cy="11.315944"
+       r="0.0057972446" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>ReCorner Logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>SuperBenjaBros</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
