@@ -1,3 +1,10 @@
+# --- Setup Section ---
+# Don't Copy This, It Looks Nice Here, But It Will Probably Look Bad In Your Code
+
+class_name ReCorner extends CharacterBody2D
+
+# --- End Setup Section ---
+
 @export var ReCorner_Snap_Range: int = 20
 
 func ReCorner(delta: float) -> void:
