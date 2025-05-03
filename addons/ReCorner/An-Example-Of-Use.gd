@@ -1,4 +1,4 @@
-class_name ReCorner extends CharacterBody2D
+class_name ReCorner_Example extends CharacterBody2D
 
 const SPEED = 100.0
 const JUMP_VELOCITY = -400.0
