@@ -1,3 +1,5 @@
+# Warning: This Mini Documentation Is Made To Be Viewed From The Godot Editor, If You Are Seeing It From GitHub It Might Look Weird
+
 > ----- ReCorner: A Simple Corner Correction In Godot 4.0+ -----
 
 # How To Use??
@@ -15,3 +17,7 @@ If Do You Want An Visual Example Check The GitHub Repositories [github.com/Super
 `Copyright (c) 2025` [SuperBenjaBros]
 More Information In [https://github.com/SuperBenjaBros/Corner-Correction-Godot--ReCorner/blob/main/LICENSE]
 Or In [LICENCE] (This Archive Do Not Can View In The Inspector)
+
+# Do You Want To Create And Upload Your Own Addons To The Godot Asset Library???
+Well, I Created A CC0 Template So You Don’t Have To Go Through The Hell I Went Through
+Here’s The Link: [https://github.com/SuperBenjaBros/Godot-Asset-Library-Template]
