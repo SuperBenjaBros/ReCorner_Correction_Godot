@@ -14,7 +14,7 @@ func ReCorner(delta: float) -> void:
 		for dir in [-1, 1]:
 			if not test_move(global_transform.translated(Vector2(i / 2.0 * dir, 0)), Vector2(0, velocity.y * delta)):
 				translate(Vector2(i / 2.0 * dir, 0))
-				if velocity.x * dir != 0:
+				if velocity.x != 0:
 					velocity.x = 0
 				return
 
