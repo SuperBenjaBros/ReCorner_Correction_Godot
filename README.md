@@ -1,4 +1,4 @@
-# ReCorner: A Simple Corner Correction In Godot 4.0+
+# ReCorner: Copy And Paste Corner Correction In Godot 4.0+
 ![ReCorner Example Gif](https://raw.githubusercontent.com/SuperBenjaBros/Corner-Correction-Godot--ReCorner/refs/heads/main/Multimedia/Asset_Library/ScreenShoots/ScreenShot%201.gif)
 
 ## How To Use??

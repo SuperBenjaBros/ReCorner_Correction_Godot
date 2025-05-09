@@ -1,6 +1,6 @@
 # NOTICE: This Mini Documentation Is Made To Be Viewed From The Godot Editor, If You Are Seeing It From GitHub It Might Look Weird
 
-> ----- ReCorner: A Simple Corner Correction In Godot 4.0+ -----
+> ----- ReCorner: Copy And Paste Corner Correction In Godot 4.0+ -----
 
 # How To Use??
 1. Copy And Paste [ReCorner.gd] In Your Code (GDScript Only)  
