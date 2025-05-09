@@ -1,4 +1,4 @@
-# Warning: This Mini Documentation Is Made To Be Viewed From The Godot Editor, If You Are Seeing It From GitHub It Might Look Weird
+# NOTICE: This Mini Documentation Is Made To Be Viewed From The Godot Editor, If You Are Seeing It From GitHub It Might Look Weird
 
 > ----- ReCorner: A Simple Corner Correction In Godot 4.0+ -----
 

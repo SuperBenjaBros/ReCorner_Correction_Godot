@@ -5,7 +5,7 @@
 1. Copy And Paste [ReCorner Function](addons/ReCorner/ReCorner.gd) In Your Code (GDScript Only)  
 2. Call The Function Passing Delta `ReCorner(delta)` Just Before `move_and_slide()`  
 3. Set In The Inspector The Var `ReCorner_Snap_Range` A Correct Value For Your Game
-    > ![Variable In Inspector Example](Multimedia/README_Examples/Inspector_Var_Example.png)  
+    > ![ReCorner_Snap_Range Var In Inspector Example](Multimedia/README_Examples/Inspector_Var_Example.png)  
 4. That’s It! For A Full Example, [See Here](addons/ReCorner/An-Example-Of-Use.gd)  
 
 > [!TIP]
