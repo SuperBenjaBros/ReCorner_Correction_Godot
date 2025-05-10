@@ -1,11 +1,11 @@
 # ReCorner: Copy And Paste Corner Correction In Godot 4.0+
-![ReCorner Example Gif](https://raw.githubusercontent.com/SuperBenjaBros/Corner-Correction-Godot--ReCorner/refs/heads/main/Multimedia/Asset_Library/ScreenShoots/ScreenShot%201.gif)
+![ReCorner Example Gif](Multimedia/Asset_Library_ScreenShoots/ScreenShot%201.gif)
 
 ## How To Use??
 1. Copy And Paste [ReCorner Function](addons/ReCorner/ReCorner.gd) In Your Code (GDScript Only)  
 2. Call The Function Passing Delta `ReCorner(delta)` Just Before `move_and_slide()`  
 3. Set In The Inspector The Var `ReCorner_Snap_Range` A Correct Value For Your Game
-    > ![ReCorner_Snap_Range Var In Inspector Example](Multimedia/README_Examples/Inspector_Var_Example.png)  
+    > ![ReCorner_Snap_Range Var In Inspector Example](Multimedia/README_Examples/Inspector_Var_Example.png)
 4. That’s It! For A Full Example, [See Here](addons/ReCorner/An-Example-Of-Use.gd)  
 
 > [!TIP]
@@ -16,4 +16,4 @@
 > [!WARNING]
 > The MIT License Only Applies To The Code In This Repository.  
 > The Example Images Shown In the README / In [Multimedia](Multimedia) Are Not Covered By The MIT License  
-> Please Do Not Reuse Them In Your Own Projects Unless You Have Permission.  
+> Please Do Not Reuse Them In Your Own Projects Unless You Have Permission.
