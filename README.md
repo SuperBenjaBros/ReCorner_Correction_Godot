@@ -17,3 +17,14 @@
 > The MIT License Only Applies To The Code In This Repository.  
 > The Example Images Shown In the README / In [Multimedia](Multimedia) Are Not Covered By The MIT License  
 > Please Do Not Reuse Them In Your Own Projects Unless You Have Permission.
+
+
+<details>
+  <summary> ReCorner Credits</summary>
+
+- [Godot Team](https://GodotEngine.org): <sub>**Best** Game Engine</sub>
+- [ChatGpt](https://ChatGPT.com): <sub>Spanish - English Translate</sub>
+- [*Vol*Ter](https://PasteBin.com/nj4J9Qb8): <sub>Reference</sub>  
+<sub>**PD:** ReCorner Is Not A Copy, [This Version](https://PasteBin.com/nj4J9Qb8) **Do Not Have License**, Given that the ““Original”” Version Is Short And Generic, ReCorner With Little Changes And A New Brand It Becomes Completely Independent, Even When It Comes To Copyrights Or Legal Terms, Ready For Your Projects 😜</sub>
+
+</details>
